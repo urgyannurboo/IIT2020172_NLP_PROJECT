@@ -13,7 +13,7 @@ textblob
 Make sure to install these libraries before running the code
 # Installation
 Clone the repository to your local machine using the following command:
-git clone https://github.com/urgyannurboo/IIT2020172_NLP_PROJECT.git
+git clone https://github.com/urgyannurboo/IIT2020172_NLP_PROJECT.git .
 Run the Code.ipynb file to see the implementation
 # Dataset
 The dataset used in this project should be in JSON format, with each tweet represented as a dictionary object. The JSON file should contain the following columns:
